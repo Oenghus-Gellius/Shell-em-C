@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 
 /*
 O Windows possui um prompt de comandos que pode ser usado para a execução de comandos
